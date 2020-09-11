@@ -1,4 +1,4 @@
-#AdivinheOnumPanel
+//AdivinheOnumPanel
 
 import javax.swing.JOptionPane;
 import java.util.Random;
